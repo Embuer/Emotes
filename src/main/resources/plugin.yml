@@ -1,0 +1,12 @@
+name: Emotes
+version: ${project.version}
+main: de.embuer.emotes.Main
+api-version: 1.16
+authors: [ Embuer ]
+description: Custom Emotes for Minecraft
+
+commands:
+  emotes:
+    description: Emotes information
+  loademotes:
+    description: Load the resourcepack used for emotes
